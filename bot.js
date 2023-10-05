@@ -1,7 +1,6 @@
-"use strict";
-// Uzbekcha Telegram bot yaratish
+
 const TelegramBot = require('node-telegram-bot-api');
-const token = '6475213956:AAHp--MAf31VXjo7LQ8aRBjFyaN63Vg6_WE';
+const token = '/*-------------Bu yerga Botingizni tokenini joylang-------------*/';
 
 // Uzbekcha so'zlar va javoblar
 const words = {
